@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969925621018",
+    "firebase_url": "https://fir-app-59236.firebaseio.com",
+    "project_id": "fir-app-59236",
+    "storage_bucket": "fir-app-59236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969925621018:android:b8fc0d8a2c6b69df51a8a3",
+        "android_client_info": {
+          "package_name": "com.trunghtluu.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969925621018-ppg853dcaf5u9tp8d33850sesthb06vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOxKMRf1LwTY1Q-Wi_Qe3PI3Gjgk1B2k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969925621018-ppg853dcaf5u9tp8d33850sesthb06vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
